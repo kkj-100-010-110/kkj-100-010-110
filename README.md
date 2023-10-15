@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![gyeokim's 42 stats](https://badge42.vercel.app/api/v2/cll9j2idw001108k0zpukbbxt/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
-
 ![kkj-100-010-110's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkj-100-010-110&show_icons=true&theme=transparent)
 
 <!--
